@@ -28,7 +28,3 @@ The system combines transformer-based semantic embeddings, TF-IDF features, hand
 ## Contributors
 - Diti Peyur Oza
 - Sowmya Anipeddi
-
-## Repository Status
-Project documentation is currently available.
-Source code and additional artifacts will be added after consolidation of team contributions."# Evidence-Based-Claim-Verification-System" 
